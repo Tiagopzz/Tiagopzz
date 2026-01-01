@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Tiago 👋
 
-<!--
-**Tiagopzz/Tiagopzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at PUCRS with a strong interest in backend development and building well-structured software.
 
-Here are some ideas to get you started:
+### 💡 Interests
+- Backend development
+- Problem solving and algorithms
+- Learning cybersecurity fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech
+**Languages:** Java, Python, C, JavaScript, SQL  
+**Web:** HTML, CSS  
+**Frameworks & Tools:** Flask, Git, GitHub  
+
+### 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/tiago-prudencio
+
+
