@@ -1,11 +1,11 @@
 ## Hi, I'm Tiago 👋
 
-Software Engineering student at PUCRS with a strong interest in backend development and building well-structured software.
+Software Engineering student at PUCRS.
 
 ### 💡 Interests
-- Backend development
+- Software development
 - Problem solving and algorithms
-- Learning cybersecurity fundamentals
+- Cybersecurity 
 
 ### 🛠 Tech
 **Languages:** Java, Python, C, JavaScript, SQL  
