@@ -9,8 +9,9 @@ Software Engineering student at PUCRS.
 
 ### 🛠 Tech
 **Languages:** Java, Python, C, JavaScript, SQL  
-**Web:** HTML, CSS  
-**Frameworks & Tools:** Flask, Git, GitHub  
+**Frontend:** HTML, CSS, React  
+**Backend:** Spring Boot, Flask  
+**Tools:** Git, GitHub 
 
 ### 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/tiago-prudencio
